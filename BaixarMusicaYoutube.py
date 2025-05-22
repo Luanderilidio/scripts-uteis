@@ -16,7 +16,7 @@ def download_audio(video_url, output_folder='downloads'):
         ydl.download([video_url])
 
 # URL do vídeo ou playlist para baixar
-video_url = "https://www.youtube.com/watch?v=ajnqTbVgVqI&list=PLq2aS32V3IdblMafYONv3Q59is2a4pgWC&index=1"
+video_url = "https://www.youtube.com/watch?v=Fh8qS0RSM5Y"
 
 try:
     print(f"Baixando: {video_url}")
